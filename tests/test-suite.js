@@ -9,7 +9,7 @@
  * node tests/test-suite.js calls              # Run only call tests
  */
 
-const CallWhiz = require('../callwhiz');
+const CallWhiz = require('../callwhiz-sdk');
 require('dotenv').config();
 
 // Test configuration

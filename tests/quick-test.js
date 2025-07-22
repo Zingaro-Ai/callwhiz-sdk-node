@@ -5,7 +5,7 @@
  * node tests/quick-test.js
  */
 
-const CallWhiz = require('../callwhiz');
+const CallWhiz = require('../callwhiz-sdk');
 require('dotenv').config();
 
 const client = new CallWhiz({

@@ -1,4 +1,4 @@
-const CallWhiz = require('./callwhiz');
+const CallWhiz = require('../callwhiz-sdk');
 require('dotenv').config();
 
 
